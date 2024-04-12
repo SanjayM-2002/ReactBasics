@@ -15,6 +15,8 @@ import Task08 from './components/Task08';
 import Task09 from './components/Task09';
 import Task10 from './components/Task10';
 import Task11 from './components/Task11';
+import Task12 from './components/Task12';
+import Task13 from './components/Task13';
 
 function App() {
   console.log('main app rerendered', Math.random());
@@ -32,7 +34,9 @@ function App() {
       {/* <Task08 /> */}
       {/* <Task09 /> */}
       {/* <Task10 /> */}
-      <Task11 />
+      {/* <Task11 /> */}
+      {/* <Task12 /> */}
+      <Task13 />
     </>
   );
 }
